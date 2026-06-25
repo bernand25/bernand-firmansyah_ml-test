@@ -1,12 +1,14 @@
-AI Engineer Technical Test – Travel Time Prediction
+# AI Engineer Technical Test – Travel Time Prediction
 
-Project Overview
+## Project Overview
 
 Proyek ini bertujuan membangun pipeline awal untuk prediksi travel time antar segmen halte menggunakan data historis GPS bus TransJakarta.
 
-Dataset berisi informasi perjalanan bus pada level segmen, termasuk waktu tempuh aktual (traveling_time_sec), rata-rata historis (average_time_sec), metadata rute, urutan halte, dan waktu kedatangan.
+Dataset berisi informasi perjalanan bus pada level segmen, termasuk waktu tempuh aktual (`traveling_time_sec`), rata-rata historis (`average_time_sec`), metadata rute, urutan halte, dan waktu kedatangan.
 
-Dataset Issues Identified
+---
+
+## Dataset Issues Identified
 
 Berdasarkan hasil Exploratory Data Analysis (EDA), ditemukan tiga isu utama:
 
